@@ -605,8 +605,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Num01: {fileID: 2062867208}
   Num02: {fileID: 682886142}
-  Result: {fileID: 613357447}
-  Error: {fileID: 312522314}
+  result: {fileID: 613357447}
+  error: {fileID: 312522314}
   num1: 0
   num2: 0
 --- !u!1 &584142717
